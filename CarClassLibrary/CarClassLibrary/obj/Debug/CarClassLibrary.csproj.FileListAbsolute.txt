@@ -1,0 +1,6 @@
+C:\Users\Test\Code\C#\Prof_Sluiter\CarClassLibrary\CarClassLibrary\bin\Debug\CarClassLibrary.dll
+C:\Users\Test\Code\C#\Prof_Sluiter\CarClassLibrary\CarClassLibrary\bin\Debug\CarClassLibrary.pdb
+C:\Users\Test\Code\C#\Prof_Sluiter\CarClassLibrary\CarClassLibrary\obj\Debug\CarClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Test\Code\C#\Prof_Sluiter\CarClassLibrary\CarClassLibrary\obj\Debug\CarClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Test\Code\C#\Prof_Sluiter\CarClassLibrary\CarClassLibrary\obj\Debug\CarClassLibrary.dll
+C:\Users\Test\Code\C#\Prof_Sluiter\CarClassLibrary\CarClassLibrary\obj\Debug\CarClassLibrary.pdb

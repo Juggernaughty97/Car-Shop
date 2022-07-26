@@ -1,0 +1,13 @@
+C:\Users\Test\Code\C#\Prof_Sluiter\CarShopGUI\CarShopGUI\bin\Debug\CarShopGUI.exe.config
+C:\Users\Test\Code\C#\Prof_Sluiter\CarShopGUI\CarShopGUI\bin\Debug\CarShopGUI.exe
+C:\Users\Test\Code\C#\Prof_Sluiter\CarShopGUI\CarShopGUI\bin\Debug\CarShopGUI.pdb
+C:\Users\Test\Code\C#\Prof_Sluiter\CarShopGUI\CarShopGUI\obj\Debug\CarShopGUI.csproj.AssemblyReference.cache
+C:\Users\Test\Code\C#\Prof_Sluiter\CarShopGUI\CarShopGUI\obj\Debug\CarShopGUI.Form1.resources
+C:\Users\Test\Code\C#\Prof_Sluiter\CarShopGUI\CarShopGUI\obj\Debug\CarShopGUI.Properties.Resources.resources
+C:\Users\Test\Code\C#\Prof_Sluiter\CarShopGUI\CarShopGUI\obj\Debug\CarShopGUI.csproj.GenerateResource.cache
+C:\Users\Test\Code\C#\Prof_Sluiter\CarShopGUI\CarShopGUI\obj\Debug\CarShopGUI.csproj.CoreCompileInputs.cache
+C:\Users\Test\Code\C#\Prof_Sluiter\CarShopGUI\CarShopGUI\obj\Debug\CarShopGUI.exe
+C:\Users\Test\Code\C#\Prof_Sluiter\CarShopGUI\CarShopGUI\obj\Debug\CarShopGUI.pdb
+C:\Users\Test\Code\C#\Prof_Sluiter\CarShopGUI\CarShopGUI\bin\Debug\CarClassLibrary.dll
+C:\Users\Test\Code\C#\Prof_Sluiter\CarShopGUI\CarShopGUI\bin\Debug\CarClassLibrary.pdb
+C:\Users\Test\Code\C#\Prof_Sluiter\CarShopGUI\CarShopGUI\obj\Debug\CarShopGUI.csproj.CopyComplete

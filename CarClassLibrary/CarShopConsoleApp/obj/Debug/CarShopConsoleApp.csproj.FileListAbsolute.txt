@@ -1,0 +1,10 @@
+C:\Users\Test\Code\C#\Prof_Sluiter\CarClassLibrary\CarShopConsoleApp\bin\Debug\CarShopConsoleApp.exe.config
+C:\Users\Test\Code\C#\Prof_Sluiter\CarClassLibrary\CarShopConsoleApp\bin\Debug\CarShopConsoleApp.exe
+C:\Users\Test\Code\C#\Prof_Sluiter\CarClassLibrary\CarShopConsoleApp\bin\Debug\CarShopConsoleApp.pdb
+C:\Users\Test\Code\C#\Prof_Sluiter\CarClassLibrary\CarShopConsoleApp\bin\Debug\CarClassLibrary.dll
+C:\Users\Test\Code\C#\Prof_Sluiter\CarClassLibrary\CarShopConsoleApp\bin\Debug\CarClassLibrary.pdb
+C:\Users\Test\Code\C#\Prof_Sluiter\CarClassLibrary\CarShopConsoleApp\obj\Debug\CarShopConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Test\Code\C#\Prof_Sluiter\CarClassLibrary\CarShopConsoleApp\obj\Debug\CarShopConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Test\Code\C#\Prof_Sluiter\CarClassLibrary\CarShopConsoleApp\obj\Debug\CarShopConsoleApp.csproj.CopyComplete
+C:\Users\Test\Code\C#\Prof_Sluiter\CarClassLibrary\CarShopConsoleApp\obj\Debug\CarShopConsoleApp.exe
+C:\Users\Test\Code\C#\Prof_Sluiter\CarClassLibrary\CarShopConsoleApp\obj\Debug\CarShopConsoleApp.pdb
